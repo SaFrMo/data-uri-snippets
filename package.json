@@ -1,0 +1,12 @@
+{
+  "name": "data-uri-snippets",
+  "version": "1.0.0",
+  "description": "Dictionary of commonly-used data URIs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
