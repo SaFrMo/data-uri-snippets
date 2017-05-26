@@ -1,5 +1,5 @@
 ## What
-Dictionary of commonly-used data URIs.
+Dictionary of commonly-used data URIs. Part of the [Phaser Component Library](https://github.com/SaFrMo/phaser-component-library).
 
 ## How
 
